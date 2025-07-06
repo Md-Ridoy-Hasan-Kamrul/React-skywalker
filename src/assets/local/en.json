@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "services_web": "Web Development",
+    "services_mobile": "Mobile Apps",
+    "services_design": "UI/UX Design",
+    "pricing": "Pricing",
+    "contact": "Contact"
+  },
+  "language": {
+    "english": "English",
+    "arabic": "العربية"
+  },
+  "logo": "YourLogo",
+  "footer": {
+    "logo_part1": "Nexus",
+    "logo_part2": "Wave",
+    "description": "Driving digital transformation through innovative solutions since 2020.",
+    "quick_links_title": "Quick Links",
+    "quick_links": ["About Us", "Services", "Case Studies", "Blog", "Careers"],
+    "services_title": "Our Services",
+    "services": [
+      "Web Development",
+      "Mobile Applications",
+      "UI/UX Design",
+      "Cloud Solutions",
+      "AI Integration"
+    ],
+    "contact_title": "Contact Us",
+    "address": "123 Tech Park, Silicon Valley, CA 94025",
+    "phone": "+1 (800) 555-1234",
+    "email": "info@nexuswave.com",
+    "hours": "Mon-Fri: 9AM - 6PM PST",
+    "newsletter_title": "SUBSCRIBE TO NEWSLETTER",
+    "newsletter_placeholder": "Your email",
+    "copyright": "© {{year}} NexusWave Technologies. All rights reserved.",
+    "privacy_policy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookies",
+    "back_to_top": "Back to top"
+  },
+  "home_page": {
+    "hero": {
+      "title": "Build the Future with DevSite",
+      "subtitle": "Empowering developers with cutting-edge tools and a collaborative community to bring ideas to life faster than ever before.",
+      "cta_button": "Get Started Today"
+    },
+    "features": {
+      "title": "Why Choose DevSite?",
+      "subtitle": "Everything you need in one powerful platform.",
+      "cards": [
+        {
+          "title": "Blazing Fast Performance",
+          "description": "Optimized infrastructure and a lightweight framework ensure your projects run at lightning speed."
+        },
+        {
+          "title": "Enterprise-Grade Security",
+          "description": "Your data is protected with state-of-the-art security protocols and regular audits."
+        },
+        {
+          "title": "Seamless Collaboration",
+          "description": "Work with your team in real-time with integrated tools for version control and communication."
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Loved by Developers Worldwide",
+      "rating": "4.9 average rating",
+      "cards": [
+        {
+          "quote": "DevSite has completely transformed our development workflow. The speed and collaboration tools are second to none.",
+          "author": "Jane Doe",
+          "title": "Lead Engineer, TechCorp"
+        },
+        {
+          "quote": "As a freelance developer, the reliability and security are crucial. I trust DevSite with all my client projects.",
+          "author": "John Smith",
+          "title": "Freelance Web Developer"
+        },
+        {
+          "quote": "The community and support are fantastic. Whenever I have a question, there's always someone to help.",
+          "author": "Alex Johnson",
+          "title": "CTO, Innovate LLC"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Dive In?",
+      "subtitle": "Start your free 14-day trial today. No credit card required.",
+      "button": "Sign Up Now"
+    }
+  }
+}
